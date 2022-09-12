@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?",
+            "correct_answer": "George R. R. Martin",
+            "incorrect_answers": [
+                "George Lucas",
+                "George Orwell",
+                "George Eliot"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which famous book is sub-titled &#039;The Modern Prometheus&#039;?",
+            "correct_answer": "Frankenstein",
+            "incorrect_answers": [
+                "Dracula",
+                "The Strange Case of Dr. Jekyll and Mr. Hyde ",
+                "The Legend of Sleepy Hollow"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the name of Captain Nemo&#039;s submarine in &quot;20,000 Leagues Under the Sea&quot;?",
+            "correct_answer": "The Nautilus",
+            "incorrect_answers": [
+                "The Neptune",
+                "The Poseidon  ",
+                "The Atlantis"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many Harry Potter books are there?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "8",
+                "5",
+                "6"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+            "correct_answer": "Holden Caulfield",
+            "incorrect_answers": [
+                "Fletcher Christian",
+                "Jay Gatsby",
+                "Randall Flagg"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+            "correct_answer": "42",
+            "incorrect_answers": [
+                "Loving everyone around you",
+                "Chocolate",
+                "Death"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Michael Crichton&#039;s novel &quot;Jurassic Park&quot;, John Hammond meets his demise at the claws of which dinosaur?",
+            "correct_answer": "Procompsognathus",
+            "incorrect_answers": [
+                "Dilophosaurus",
+                "Tyrannosaurus Rex",
+                "Velociraptor"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+            "correct_answer": "Dinah",
+            "incorrect_answers": [
+                "Oscar",
+                "Heath",
+                "Smokey"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+            "correct_answer": "SCP-173",
+            "incorrect_answers": [
+                "SCP-001",
+                "SCP-999",
+                "SCP-1459"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?",
+            "correct_answer": "Friedrich Engels",
+            "incorrect_answers": [
+                "Robert Owen",
+                "Alexander Kerensky",
+                "Paul Lafargue"
+            ]
+        }
+    ]
+}
