@@ -1,6 +1,6 @@
 # Quiz App
 
-A Flutter project, that consists of an Quiz app by categories, using the opentdb.com endpoint and using BLoC to manage the states.
+A Flutter project, that consists of a Quiz app by categories, using the opentdb.com endpoint and using BLoC to manage the states.
 
 
 
