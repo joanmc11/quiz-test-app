@@ -1,16 +1,19 @@
-# dumb_tests
+# Quiz App
 
-A new Flutter project.
+A Flutter project, that consists of an Quiz app by categories, using the opentdb.com endpoint and using BLoC to manage the states.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<div>
+
+<img src="https://user-images.githubusercontent.com/93999366/189666096-90f1906e-b617-476f-917e-606cc75cbe12.jpeg" height="800" /> 
+
+<img src="https://user-images.githubusercontent.com/93999366/189667605-6c60110a-fd5a-46e4-ab82-af788f19fe0e.jpeg" height="800" /> 
+<img src="https://user-images.githubusercontent.com/93999366/189667721-9083d692-14ed-4424-bc77-cfdb2249ab19.jpeg" height="800" /> 
+<img src="https://user-images.githubusercontent.com/93999366/189667989-8e020620-bec7-4087-936c-accb14d3a68f.jpeg" width="800" /> 
+
+
+</div>
